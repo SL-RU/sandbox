@@ -1,0 +1,3 @@
+[submodule "vskb"]
+	path = vskb
+	url = https://github.com/SL-RU/vskb
